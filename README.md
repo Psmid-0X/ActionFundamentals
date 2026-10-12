@@ -54,6 +54,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [ ] 🔨 Hands-on: [Reusable workflows](hol/04-Reusable-workflows.md)
 - [ ] Best practices and security
 
+- [ ] psmid-test-lab
+
 
 ## ⚡ Prerequisites
 
